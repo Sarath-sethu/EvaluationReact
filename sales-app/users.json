@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "spk619@gmail.com",
+      "password": "$2a$10$AXfk3WHDyW8PAQd7RkT6kOo0oTJNCr8IOC2IKmFA7pNdCNK3aaxyi",
+      "role": "admin",
+      "first_name": "sarath",
+      "last_name": "s",
+      "gender": "male",
+      "age": "22",
+      "address": "xyz",
+      "Phone_no": "8606678333",
+      "id": 1
+    },
+    {
+      "email": "ark@gmail.com",
+      "password": "$2a$10$TJtO8juA9gZ6leE6WHBE9.8h9h30a2T8rjkTW56hLG5uPoX2DgJqa",
+      "first_name": "A",
+      "last_name": "rk",
+      "Phone_no": "1224567890",
+      "role": "hr",
+      "gender": "female",
+      "age": "23",
+      "address": "lkjh",
+      "id": 2
+    }
+  ]
+}
